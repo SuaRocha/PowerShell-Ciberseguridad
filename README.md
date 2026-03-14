@@ -1,5 +1,6 @@
 # PowerShell-Ciberseguridad
 Equipo de trabajo
+# Editado por Irving Azael Muñoz Ochoa el 13/03/2026
 ¿Qué contiene?
 El proyecto contiene un script en PowerShell diseñado para realizar escaneos básicos de seguridad en la red del equipo, tambien identifica las direcciones IP externas con las que la computadora tiene una comunicación activa, analiza si las IP tienen reportes de actividad maliciosa y genera un reporte de cada una, tambien guarda los resultados en un archivo CSV en el escritorio del usuario 
 
